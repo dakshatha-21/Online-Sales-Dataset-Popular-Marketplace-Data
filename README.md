@@ -28,17 +28,16 @@ Payment Method: Method used for payment (e.g., Credit Card, PayPal, Debit Card).
 Sales Insights – SQL Analysis
 
 Monthly Trend
-Apr-2024 | ₹ 3,899.99 | 1 Order
+January-2024	| 14548.32 | 31
 
 Yearly Growth
-2023 → ₹ 76,667.01 | 2024 → ₹ 80,567.00
-Growth: ₹ 3,899.99
+2024	80567.85	240
 
 Top Product Per Month
-Apr-2024 | Canon EOS R5 Camera | ₹ 3,899.99
+April-2024 |	Canon EOS R5 | Camera |	3899.99	1
 
 Best Category
-Electronics – ₹ 80,567.00
+2024	1	7999.90	Electronics
 
 🛠 Tools
 MySQL — for queries and aggregation functions
